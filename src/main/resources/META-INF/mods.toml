@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]] #mandatory
+modId="moregems"
+version="${file.jarVersion}"
+displayName="more gems"
+authors="MEMZJJY"
+description='''
+eeeeeeeeeee
+'''

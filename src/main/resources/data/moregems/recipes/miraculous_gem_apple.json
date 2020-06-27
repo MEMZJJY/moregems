@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "moregems:miraculous_gem"
+    },
+    "R": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "moregems:miraculous_gem_apple",
+    "count": 1
+  }
+}
