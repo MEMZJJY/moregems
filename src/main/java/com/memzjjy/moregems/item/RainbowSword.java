@@ -45,3 +45,4 @@ public class RainbowSword extends SwordItem {
         super(iItemTier, 2147483645, -2.4F, new Properties().group(MoregemsGroupReg.moregemsGroup));
     }
 }
+//啦啦啦
