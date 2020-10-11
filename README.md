@@ -1,3 +1,3 @@
 # moregems
-这个是更多宝石的github仓库
-咕👻👻
+已弃坑
+新库链接https://github.com/MEMZJJY/fabric_moregems
